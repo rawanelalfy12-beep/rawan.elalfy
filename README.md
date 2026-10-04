@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rawan Elalfy</h1>
 
-<h3 align="center">🎓 AI Student | 🔐 Cyber Security Enthusiast</h3>
+<h3 align="center">🎓 AI Student | 🔐 Cyber Security </h3>
 
 <p align="center">
   I'm a beginner in the world of Cyber Security and Artificial Intelligence.
